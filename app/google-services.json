@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598508781416",
+    "project_id": "fir-authapp-55afd",
+    "storage_bucket": "fir-authapp-55afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598508781416:android:48d9d8b6a549bf7443e0dd",
+        "android_client_info": {
+          "package_name": "com.projects.yatra_sangrah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTe02ZdAjHglgqkKtf63EuILfe4SVrVdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
